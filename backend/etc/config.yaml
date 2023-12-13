@@ -19,4 +19,4 @@ file-content:
   templates: "./public"
 
 services:
-  mail-server: "eegfaktura-eda:9090"
+  mail-server: "eegfaktura-eda:9093"  
